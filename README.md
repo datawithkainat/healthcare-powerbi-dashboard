@@ -1,12 +1,31 @@
-# healthcare-powerbi-dashboard
-Project: Healthcare Management Dashboard (Power BI)
+# Healthcare Management Dashboard (Power BI)
 
-What it shows: KPIs (Total Patients, Total Revenue, Avg Bill, Revenue/Patient) + drilldowns by Month, Department, Doctor, Age Group, Gender
+## 📊 Project Overview
+This dashboard provides insights into hospital performance using interactive Power BI visualizations.
 
-Filters: Month (VisitDate), Department
+## 🎯 Key Metrics
+- Total Patients
+- Total Revenue
+- Average Bill
+- Revenue per Patient
 
-Dataset: (sample / anonymized / dummy)
+## 📈 Insights Covered
+- Revenue by Department
+- Patients by Age Group
+- Patients by Gender
+- Doctor Performance Analysis
+- Monthly Trends 
 
-How to use: Download .pbix / .pbit → open in Power BI Desktop
+## 🛠 Tools Used
+- Power BI Desktop
+- DAX
+- Data Modeling
 
-Preview images: embed screenshots
+## 📷 Dashboard Preview
+![Dashboard](Hospital_management_dashboard.png)
+
+## 📂 Files Included
+- Hospital-Management-Dashboard.pbix
+- Healthcare_Hospital.xlsx
+- Hospital_management_dashboard.png
+  
